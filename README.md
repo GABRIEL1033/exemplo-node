@@ -1,2 +1,2 @@
-# exemplo-node
-Exemplo de projeto em node
+# exemplo-web
+Exemplo de projeto web
